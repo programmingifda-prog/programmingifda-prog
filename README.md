@@ -1,4 +1,4 @@
-## Hi there 👋
+# About MySelf 👋
 
 <!--
 **programmingifda-prog/programmingifda-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Career 🌱
+I am a MERN Stack Developer with 5+ years of Industry Experience & 5+ years of Teaching Experience
